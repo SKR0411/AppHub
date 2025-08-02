@@ -1,0 +1,14 @@
+{
+  "metaFiles": [
+    {
+      "name": "Land Calculator",
+      "filename": "meta.json",
+      "path": "https://raw.githubusercontent.com/SKR0411/AppHub/main/land_calculator/meta.json"
+    },
+    {
+      "name": "SKR Projects",
+      "filename": "meta.json",
+      "path": "https://raw.githubusercontent.com/SKR0411/AppHub/main/skr_projects/meta.json"
+    }
+  ]
+}
