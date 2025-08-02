@@ -1,0 +1,38 @@
+{
+  "name": "Tic Tac Toe",
+  "package": "com.skr.tictactoe",
+  "version": "1.0",
+  "description": "Tic Tac Toe is a classic two-player game that brings strategic fun to your fingertips. Challenge your friends or play against AI to see who claims victory in this timeless game of Xs and Os.",
+  "developer": {
+    "name": "SKR",
+    "email": "skr@example.com",
+    "website": "https://github.com/SKR0411"
+  },
+  "features": [
+    "Two player mode (local)",
+    "Simple and engaging UI",
+    "Tracks win/draw/loss stats",
+    "Lightweight and works offline"
+  ],
+  "permissions": [
+    "android.permission.INTERNET",
+    "android.permission.ACCESS_NETWORK_STATE"
+  ],
+  "icons": [
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/ic_icon_round.png",
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/home_screen.jpg"
+  ],
+  "screenshots": [
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/welcome_screen.jpg",
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/home_screen.jpg",
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/result_screen.jpg"
+  ],
+  "apk": {
+    "url": "https://github.com/SKR0411/TicTacToe/releases/download/v1.0/tic_tac_toe.apk",
+    "size": "3.2 MB",
+    "minSdk": 16,
+    "targetSdk": 30
+  },
+  "tags": ["game", "tic tac toe", "xo", "offline", "two player", "board game"],
+  "releaseDate": "2025-08-01"
+}
