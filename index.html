@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sujan's App Store</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>📱 Sujan's App Hub</h1>
+    <p>Smart Tools. Simple Design. Free for Everyone.</p>
+  </header>
+
+  <main class="app-grid">
+    <!-- App Card -->
+    <div id="appContainer"></div>
+    <!-- Add more cards similarly -->
+  </main>
+
+  <!-- Popup Modal -->
+  <div id="popup" class="popup">
+    <div class="popup-content">
+      <span class="close" onclick="closePopup()">&times;</span>
+      <img id="popup-icon" src="" alt="App Icon" class="popup-icon">
+      <h2 id="popup-title"></h2>
+      <p id="popup-desc"></p>
+      <div class="popup-screenshots" id="popup-screenshots"></div>
+      <a id="download-link" href="#" download class="download-btn">📦 Download APK</a>
+    </div>
+  </div>
+
+  <footer>
+    <p>Made with ❤️ by Sujan Roy</p>
+    <p>📧 sujanroy63836@gmail.com | <a href="https://www.facebook.com/sujanroy0411" target="_blank">Facebook</a></p>
+    <p>&copy; 2025 Sujan Roy. All Rights Reserved</p>
+    <p>  <a href="https://skrpripol.netlify.app" id="privacyLink" target="_blank">Privacy Policy</a></p>
+  </footer>
+
+  <script src="script.js"></script>
+  
+</body>
+</html>
