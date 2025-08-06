@@ -1,5 +1,33 @@
 {
-  "name": "App Hub"
-  "package": "com.skr.apphub"
-  "description ": "App Hub is an simple app developed by me (Sujan Roy) to host my apk projects"
+  "name": "App Hub",
+  "package": "com.skr.apphub",
+  "version": "1.0",
+  "description": "App Hub is a modern platform to showcase all your personal Android projects in one clean, minimal, and organized space. Built with developers in mind, it keeps your portfolio lightweight and elegant.",
+  "developer": {
+    "name": "SKR",
+    "email": "skr@example.com",
+    "website": "https://github.com/SKR0411"
+  },
+  "features": [
+    "Showcase multiple apps in one place",
+    "Clean and modern purple-themed UI",
+    "Works offline and loads fast",
+    "Lightweight and no ads"
+  ],
+  "permissions": [],
+  "icons": [
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/assets/ic_icon_round.png",
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/assets/ic_icon.png"
+  ],
+  "screenshots": [
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/assets/home_screen.jpg"
+  ],
+  "apk": {
+    "url": "https://github.com/SKR0411/AppHub/releases/download/v1.0/app_hub.apk",
+    "size": "2.8 MB",
+    "minSdk": 14,
+    "targetSdk": 33
+  },
+  "tags": ["portfolio", "developer", "projects", "android", "tools", "offline"],
+  "releaseDate": "2025-08-06"
 }
