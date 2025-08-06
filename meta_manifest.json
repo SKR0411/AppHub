@@ -27,7 +27,7 @@
     },
     {
       "name": "Rongpur Daily Needs",
-      "filename": "meta.json"
+      "filename": "meta.json",
       "path": "https://raw.githubusercontent.com/SKR0411/RDN2025/main/meta.json"
     }
   ]
