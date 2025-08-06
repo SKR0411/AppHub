@@ -24,6 +24,11 @@
       "name": "App Hub",
       "filename": "meta.json",
       "path": "https://raw.githubusercontent.com/SKR0411/AppHub/main/meta.json"
+    },
+    {
+      "name": "Rongpur Daily Needs",
+      "filename": "meta.json"
+      "path": "https://raw.githubusercontent.com/SKR0411/RDN2025/main/meta.json"
     }
   ]
 }
