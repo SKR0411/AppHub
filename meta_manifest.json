@@ -19,6 +19,11 @@
       "name": "Calculator",
       "filename": "meta.json",
       "path": "https://raw.githubusercontent.com/SKR0411/Calculator/main/meta.json"
+    },
+    {
+      "name": "App Hub",
+      "filename": "meta.json",
+      "path": "https://raw.githubusercontent.com/SKR0411/AppHub/main/meta.json"
     }
   ]
 }
