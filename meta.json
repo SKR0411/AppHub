@@ -23,7 +23,7 @@
     "https://raw.githubusercontent.com/SKR0411/AppHub/main/assets/home_screen.jpg"
   ],
   "apk": {
-    "url": "https://github.com/SKR0411/AppHub/releases/download/v1.0/app_hub.apk",
+    "url": "https://github.com/SKR0411/AppHub/releases/download/v1.0/AppHub.apk",
     "size": "2.8 MB",
     "minSdk": 14,
     "targetSdk": 33
